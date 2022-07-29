@@ -1,6 +1,6 @@
 {
-    "name": "anistream",
-    "short_name": "anistream",
+    "name": "aniflix",
+    "short_name": "aniflix",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
